@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-contenteditable": "^3.2.6",
+    "react-custom-scroll": "^4.0.1",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
